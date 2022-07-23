@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mrc668 (Milton Calnek)
-- 👀 I’m interested in cyber security.
+👋 Hi, I’m @mrc668 (Milton Calnek)
+- 👀 I’m interested in cyber security. I am a Certified Information Systems Security Professional and a Certified Information Systems Auditor.
 - 🌱 I’m currently learning
   - CIS Controls
   - zeek/elk (parsing zeek logs in elk)
