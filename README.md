@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security.
 - 🌱 I’m currently learning
   - CIS Controls
-  - zeek/elk
+  - zeek/elk (parsing zeek logs in elk)
   - custom logs for elk
 - 💞️ I’m looking to collaborate on helping organizations to improve their cyber security hygene. 
 - 📫 milton@calnek.com
